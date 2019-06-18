@@ -11,7 +11,7 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {},
-            "args": ["-c", "xx", "-verbose", "-socks", ":1081", "-u"]
+            "args": ["-c", "ss://AEAD_CHACHA20_POLY1305:gnode2018@us01.greenss.top:10572", "-verbose", "-socks", ":1081", "-u"]
         }
     ]
 }
